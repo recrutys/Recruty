@@ -20,7 +20,7 @@ XenForo
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/recruty)
 
 ## Немного информации:
-Я - бэкэнд разработчик, изучаю PHP 5 месяцев и неплохо преисполнился в своих познаниях. Уже год учусь и практикую верстку, а также планирую изучить JavaScript и Python, чтобы стать Фулл-стак разработчиком.
+Я - бэкэнд разработчик, изучаю PHP и неплохо преисполнился в своих познаниях. Уже год учу и практикую верстку, а также планирую изучить JavaScript и Python, чтобы стать Фулл-стак разработчиком.
 
 ## Мои разработки по XenForo:
 + [MDV] Delete Attachments Permission
