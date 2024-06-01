@@ -14,12 +14,6 @@
 ## Любимый форумный движок
 XenForo
 
-## Контакты:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/recruty)
-
-## Немного информации:
-Я - бэкэнд разработчик, изучаю PHP и неплохо преисполнился в своих познаниях. Уже год учу и практикую верстку, а также планирую изучить JavaScript и Python, чтобы стать Фулл-стак разработчиком.
-
 ## Мои разработки по XenForo:
 + [MDV] Delete Attachments Permission
 + [MDV] Possibility to delete own profile
